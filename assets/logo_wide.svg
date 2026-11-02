@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <defs>
+    <pattern id="hex" width="42" height="72.7" patternUnits="userSpaceOnUse">
+      <path d="M21 0 L42 12.1 L42 36.4 L21 48.5 L0 36.4 L0 12.1 Z M21 48.5 L21 72.7" fill="none" stroke="#12304a" stroke-width="1.2"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="640" fill="#071423"/>
+  <rect width="1280" height="640" fill="url(#hex)"/>
+  <path d="M0 500 C110 470 210 525 330 492 C450 460 540 515 660 485 C780 455 880 505 1000 478 C1110 455 1200 490 1280 470 L1280 640 L0 640 Z" fill="#1a3bc9"/>
+  <path d="M0 535 C130 512 240 552 370 528 C490 506 590 545 720 522 C840 501 950 538 1080 518 C1170 505 1230 522 1280 512 L1280 640 L0 640 Z" fill="#2c5cf0"/>
+  <path d="M0 575 C150 558 270 590 410 572 C530 557 650 588 790 570 C910 556 1030 584 1160 566 C1210 560 1250 568 1280 563 L1280 640 L0 640 Z" fill="#163199"/>
+  <circle cx="260" cy="468" r="8" fill="#2c5cf0"/>
+  <circle cx="905" cy="452" r="6" fill="#2c5cf0"/>
+  <circle cx="640" cy="472" r="5" fill="#4a7dff"/>
+  <path d="M36 100 V36 H100" fill="none" stroke="#19c6ff" stroke-width="9"/>
+  <path d="M1180 36 H1244 V100" fill="none" stroke="#19c6ff" stroke-width="9"/>
+  <path d="M36 540 V604 H100" fill="none" stroke="#19c6ff" stroke-width="9"/>
+  <path d="M1244 540 V604 H1180" fill="none" stroke="#19c6ff" stroke-width="9"/>
+  <text x="640" y="190" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="66" letter-spacing="5" fill="#d8f2ff">CREEPER WORLD <tspan font-size="92" letter-spacing="0" fill="#ff3a3a">4</tspan></text>
+  <rect x="290" y="222" width="700" height="5" fill="#19c6ff"/>
+  <text x="640" y="350" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="118" letter-spacing="4" fill="#ffffff">РУСИФИКАТОР</text>
+  <text x="640" y="418" text-anchor="middle" font-family="Arial" font-size="38" letter-spacing="2" fill="#9fdcff">сюжет и интерфейс</text>
+</svg>

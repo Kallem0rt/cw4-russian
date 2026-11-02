@@ -1,3 +1,5 @@
+![Русификатор Creeper World 4](assets/logo_wide.png)
+
 # Русификатор Creeper World 4
 
 Любительский перевод [Creeper World 4](https://store.steampowered.com/app/848480/Creeper_World_4/) на русский язык: весь сюжет кампании и интерфейс. Перевод выполнен вручную, с учётом лора серии и характеров персонажей.
